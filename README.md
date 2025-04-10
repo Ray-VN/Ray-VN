@@ -1,2 +1,2 @@
 [![Ray-VN's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ray-VN&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-VN&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-VN&layout=compact&theme=tokyonight)
