@@ -1,5 +1,21 @@
+<!-- GitHub Stats Section -->
+<div align="center">
 
-<div class="stats-container">
-          <img src="https://github-readme-stats.vercel.app/api?username=Ray-VN&show_icons=true&theme=tokyonight" alt="Ray-VN's GitHub stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-VN&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+  <h2>📊 GitHub Stats</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=Ray-VN&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="Ray-VN's GitHub Stats"
+      width="48%" 
+    >
+    
+    <!-- Top languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ray-VN&layout=compact&theme=tokyonight&hide_border=true" 
+      alt="Top Languages"
+      width="48%" 
+    >
   </div>
+
+</div>
